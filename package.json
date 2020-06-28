@@ -1,0 +1,19 @@
+{
+  "name": "crudjs",
+  "version": "1.0.0",
+  "description": "CRUD Application using MongoDB as database",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Rakhi Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.20"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
